@@ -6,7 +6,7 @@ showTableOfContents: false
 showLikes: false
 ---
 
-Hello there. My name is Abhinav (Devanagari: अभिनव / Kannada: ಅಭಿನವ). I'm a DevOps engineer based in Bengaluru (India). I'm highly skilled in DevOps practices, containerization and writing production automation. I have a passion for innovation and strong attention to detail. I enjoy coming up with elegant solutions to challenging problems.
+Hello there. My name is Abhinav (Devanagari: अभिनव / Kannada: ಅಭಿನವ್). I'm a DevOps engineer based in Bengaluru (India). I'm highly skilled in DevOps practices, containerization and writing production automation. I have a passion for innovation and strong attention to detail. I enjoy coming up with elegant solutions to challenging problems.
 
 When I'm not working, I enjoy adventure and outdoors. I am also a passionate photographer who love cruising around on my bike and exploring new hiking trails. I'm always looking for opportunities to combine my interests and capture beautiful moments through my camera.
 ![Me](/images/cover.jpg "Me, At Mullayanagiri Peak")

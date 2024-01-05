@@ -5,6 +5,8 @@ date: 2024-01-04T03:24:53+05:30
 tags:
   - kubernetes
   - reloader
+
+scrolltotop: true
 ---
 In my current work setup, we have a lot of Kubernetes deployments. Most of them are Spring Boot applications, involving `application.properties` file. These properties files are loaded via ConfigMaps. Since the company is in early stages of application development, these config maps are changing frequently. Up until now, we have been performing manual rollout restart of deployments whose config has changed.
 
@@ -41,6 +43,6 @@ This worked out so well for us that we sent it to production within 2 days of te
 
 Well, How about that??
 
-![lazy](https://i.ibb.co/LQCL9vm/sloth-5043324-640.png "me, after saving so much time from manual restarts")
+![lazy](https://i.ibb.co/LQCL9vm/sloth-5043324-640.png "me, after saving so much free time from manual restarts")
 
 Until next time!!
