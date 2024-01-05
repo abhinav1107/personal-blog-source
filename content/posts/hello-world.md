@@ -2,7 +2,7 @@
 title: "Hello World"
 slug: "hello-world"
 description: "My first of hopefully more than one blog posts"
-date: 2023-12-21T09:24:53+05:30
+date: 2024-01-04T01:15:53+05:30
 tags: 
   - hello-world
 scrolltotop : true

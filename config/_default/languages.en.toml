@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "One Step Forward"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = "My corner on the internet. Dive in, explore, and share the joy."
+
+[author]
+  name = "Abhinav.K"
+  image = "img/me.webp"
+  bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
+  headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
+  links = [
+    { github = "https://github.com/abhinav1107" },
+    { gitlab = "https://gitlab.com/abhinav1107" },
+    { linkedin = "https://linkedin.com/in/abhinav1107" },
+    { medium = "https://medium.com/@abhinav1107" },
+    { twitter = "https://twitter.com/abhinav1107" },
+    { instagram = "https://www.instagram.com/abhinav1107" },
+    { email = "mailto:abhinav@abhinav.ltd" }
+  ]
