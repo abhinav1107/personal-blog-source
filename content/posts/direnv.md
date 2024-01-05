@@ -33,19 +33,4 @@ $ cat k3d/dev/.envrc
 export KUBECONFIG="${HOME}/.config/k3d/kubeconfig-dev-cluster1.yaml"
 ```
 
-{{< admonition info "Note" >}}
-Everytime we make changes to this `.envrc` file, we need to approve it's content by running `direnv allow`.
-```shell
-$ cd ../prod/
-direnv: error <rest-of-the-path>/k3d/prod/.envrc is blocked. Run `direnv allow` to approve its content
-$ direnv allow
-direnv: loading <rest-of-the-path>/k3d/prod/.envrc
-direnv: export +KUBECONFIG
-```
-{{< /admonition >}}
-
-{{< admonition type=tip title="Tip" >}}
-I have added `.envrc` in my globally ignored list of git files, so that I don't end up pushing something in Git remote repo which should not be there, like credentials, tokens, etc. But YMMV.
-{{< /admonition >}}
-
-Util next time... Peace ✌🏻!
+Util next time... Peace :v:!

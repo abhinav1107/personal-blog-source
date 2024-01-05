@@ -1,9 +1,8 @@
 ---
 title: "Restarting Pod on ConfigMap changes"
 description: "How to use reloader to restart a pod automatically when it's ConfigMap or Secret changes"
-date: 2023-12-23T17:51:07+05:30
-featuredImg: "https://i.ibb.co/nDmWL5N/change-4056014-640.jpg"
-tags: 
+date: 2024-01-04T03:24:53+05:30
+tags:
   - kubernetes
   - reloader
 ---
@@ -42,5 +41,6 @@ This worked out so well for us that we sent it to production within 2 days of te
 
 Well, How about that??
 
-Until next time!!
 ![lazy](https://i.ibb.co/LQCL9vm/sloth-5043324-640.png "me, after saving so much time from manual restarts")
+
+Until next time!!
