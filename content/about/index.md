@@ -10,14 +10,6 @@ Hello there.
 
 My name is Abhinav (Devanagari: अभिनव / Kannada: ಅಭಿನವ್). I'm a DevOps engineer based in Bengaluru (India). I'm highly skilled in DevOps practices, containerization and writing production automation. I have a passion for innovation and strong attention to detail. I enjoy coming up with elegant solutions to challenging problems.
 
-{{< carousel images="{gallery/01.jpg, gallery/02.jpg}" aspectRatio="16-9" interval="2000" >}}
-
-When I'm not working, I enjoy adventure and outdoors. I am also a passionate photographer who love cruising around on my bike and exploring new hiking trails. I'm always looking for opportunities to combine my interests and capture beautiful moments through my camera.
-
-{{< youtube iGyZjOnhBCk >}}
-
-Get in touch with me anytime to offer feedback, ask questions, or just say hello 👋🏻.
-
 ## Recent Experiences
 {{< timeline >}}
 
@@ -59,3 +51,12 @@ Proficient in cloud platforms such as AWS, and GCP.
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+{{< carousel images="gallery/*" interval="3000" >}}
+
+When I'm not working, I enjoy adventure and outdoors. I am also a passionate photographer who love cruising around on my bike and exploring new hiking trails. I'm always looking for opportunities to combine my interests and capture beautiful moments through my camera.
+
+{{< youtube iGyZjOnhBCk >}}
+
+Get in touch with me anytime to offer feedback, ask questions, or just say hello 👋🏻.
+
