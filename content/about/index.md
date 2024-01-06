@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Introduction"
 date: 2024-01-05T03:30:34+05:30
 description: "My Introduction for the world wide web"
 showRelatedContent: false
@@ -50,9 +50,11 @@ Proficient in cloud platforms such as AWS, and GCP.
 
 {{< /timeline >}}
 
+## Life Outside Work
+When I'm not working, I enjoy adventure and outdoors. I am also a passionate photographer who love cruising around on my bike and exploring new hiking trails.
 {{< carousel images="gallery/*" interval="3000" >}}
 
-When I'm not working, I enjoy adventure and outdoors. I am also a passionate photographer who love cruising around on my bike and exploring new hiking trails. I'm always looking for opportunities to combine my interests and capture beautiful moments through my camera.
+I'm always looking for opportunities to combine my interests and capture beautiful moments through my camera.
 
 {{< youtube iGyZjOnhBCk >}}
 
