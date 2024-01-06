@@ -3,8 +3,6 @@ title: "About Me"
 date: 2024-01-05T03:30:34+05:30
 description: "My Introduction for the world wide web"
 showRelatedContent: false
-showTableOfContents: false
-sharingLinks: false
 ---
 Hello there. 
 
