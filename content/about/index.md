@@ -4,6 +4,7 @@ date: 2024-01-05T03:30:34+05:30
 description: "My Introduction for the world wide web"
 showRelatedContent: false
 showTableOfContents: false
+sharingLinks: false
 ---
 Hello there. 
 
@@ -20,11 +21,11 @@ Get in touch with me anytime to offer feedback, ask questions, or just say hello
 ## Recent Experiences
 {{< timeline >}}
 
-{{< timelineItem icon="commotion" header="Mvement India" badge="Aug 2022 to Present" subheader="Senior DevOps Architect" >}}
+{{< timelineItem icon="commotion" header="Commotion" badge="Aug 2022 to Present" subheader="Senior DevOps Architect" >}}
 AWS/GCP, EKS/GKE, Terragrunt, ArgoCD, Karpenter
 {{< /timelineItem >}}
 
-{{< timelineItem icon="sprinklr" header="Sprinklr India" badge="July 2012 to Aug 2022 (with a small break in 2015)" subheader="DevOps Architect" >}}
+{{< timelineItem icon="sprinklr" header="Sprinklr" badge="July 2012 to Aug 2022 (with a small break in 2015)" subheader="DevOps Architect" >}}
 Ansible, Python, Jenkins, Nexus, Docker, AWS, GCP, Packer, Terraform
 {{< /timelineItem >}}
 
