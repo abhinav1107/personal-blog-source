@@ -18,12 +18,12 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "img/default_background.webp" # used as default for background images
-# defaultFeaturedImage = "img/default_background.webp" # used as default for featured images in all articles
+defaultBackgroundImage = "img/default_bg.jpg" # used as default for background images
+# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
- highlightCurrentMenuArea = true
- smartTOC = true
- smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -37,7 +37,7 @@ disableTextInHeader = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/default_background.webp" # used in: hero, and card
+  homepageImage = "img/homepage_bg.webp" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
@@ -48,47 +48,48 @@ disableTextInHeader = false
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
-  showDateUpdated = false
+  showViews = true
+  showLikes = true
+  showDateUpdated = true
   showAuthor = true
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showDraftLabel = true
+  showBreadcrumbs = true
+  showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  # showRelatedContent = true
-  # relatedContentLimit = 3
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
   showTaxonomies = false
-  showAuthorsBadges = false
+  showAuthorsBadges = true
   showWordCount = true
-  # sharingLinks = ["linkedin", "twitter", "reddit", "facebook", "email", "whatsapp"]
+  sharingLinks = ["linkedin", "twitter", "reddit", "facebook", "email", "whatsapp"]
+  showZenMode = true
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -114,15 +115,35 @@ disableTextInHeader = false
   cardView = false
   cardViewScreenWidth = false
 
+[firebase]
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBgdeftSIKfgwS8sc8INevwEi6f7ULdhq0"
+  authDomain = "blogq4gvlva.firebaseapp.com"
+  projectId = "blogq4gvlva"
+  storageBucket = "blogq4gvlva.appspot.com"
+  messagingSenderId = "1005687027444"
+  appId = "1:1005687027444:web:998a308e6c704f1a5c50a1"
+  measurementId = "G-NN9N32N06P"
+
+[fathomAnalytics]
+  # site = "ABC12345"
+  # domain = "llama.yoursite.com"
+
 [buymeacoffee]
-   identifier = "abhinavltd"
-   globalWidget = true
-   globalWidgetMessage = ""
-   globalWidgetColor = "#FFDD00"
-   globalWidgetPosition = "Right"
+  identifier = "abhinavltd"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
+  google = "EtybyQSi8CKQriB5wpG7PNiNjyDzmoV2qmsMeBUR70c"
   # bing = ""
   # pinterest = ""
   # yandex = ""

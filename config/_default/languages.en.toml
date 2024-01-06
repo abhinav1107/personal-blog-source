@@ -9,11 +9,13 @@ title = "One Step Forward"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
-  description = "My corner on the internet. Dive in, explore, and share the joy."
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "My corner of the internet. Dive in, explore, and share the joy."
+  # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Abhinav.K"
-  image = "img/me.webp"
+  image = "img/profile.png"
   bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
   headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
   links = [
