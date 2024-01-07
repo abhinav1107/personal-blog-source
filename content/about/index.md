@@ -1,7 +1,5 @@
 ---
 title: "Introduction"
-date: 2024-01-05T03:30:34+05:30
-summary: "My Introduction for the world wide web"
 showRelatedContent: false
 showDate : false
 showDateUpdated : false

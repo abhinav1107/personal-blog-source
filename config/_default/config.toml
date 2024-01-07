@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://abhinav.ltd"
+baseURL = "https://abhinav.ltd/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -17,10 +17,6 @@ buildFuture = false
 
 googleAnalytics = "G-Y7B3JQHYJX"
 
-enableInlineShortcodes = true
-enableEmoji = true
-enableGitInfo = true
-canonifyURLs = true
 
 [imaging]
   anchor = 'Center'

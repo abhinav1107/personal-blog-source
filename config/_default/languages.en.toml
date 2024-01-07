@@ -1,15 +1,16 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "One Step Forward"
+
 [params]
-  languageCode = "en"
-  languageName = "English"
-  weight = 1
-  title = "One Step Forward"
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  description = "My corner of the internet. Dive in, explore, and share the joy."
+  logo = "img/logo.webp"
+  secondaryLogo = "img/logo-inverted.webp"
+  description = "Landing page and personal blog for Abhinav.K"
   copyright = '&copy; <a href="/">Abhinav.K</a> <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [author]
@@ -17,7 +18,6 @@
   image = "img/profile.webp"
   bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
   headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
-  # headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
   links = [
     { github = "https://github.com/abhinav1107" },
     { linkedin = "https://linkedin.com/in/abhinav1107" },
