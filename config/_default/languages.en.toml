@@ -19,12 +19,11 @@
   headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
   # headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
   links = [
-    { email = "mailto:abhinav@abhinav.ltd" },
     { github = "https://github.com/abhinav1107" },
-    { gitlab = "https://gitlab.com/abhinav1107" },
     { linkedin = "https://linkedin.com/in/abhinav1107" },
-    { medium = "https://medium.com/@onestepforward" },
     { twitter = "https://twitter.com/abhinav1107" },
+    { medium = "https://medium.com/@onestepforward" },
+    { email = "mailto:abhinav@abhinav.ltd" },
     { rss = "https://abhinav.ltd/index.xml" }
   ]
 

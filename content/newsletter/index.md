@@ -1,6 +1,6 @@
 ---
 title: "Newsletter"
-draft: false
+draft: true
 
 showDate : false
 showDateUpdated : false
