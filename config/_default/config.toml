@@ -10,12 +10,17 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 10
-summaryLength = 0
+summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
 
 googleAnalytics = "G-Y7B3JQHYJX"
+
+enableInlineShortcodes = true
+enableEmoji = true
+enableGitInfo = true
+canonifyURLs = true
 
 [imaging]
   anchor = 'Center'

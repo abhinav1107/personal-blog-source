@@ -87,3 +87,8 @@
   name = "About"
   pageRef = "about"
   weight = 40
+
+[[main]]
+  name = "Newsletter"
+  pageRef = "newsletter"
+  weight = 50
