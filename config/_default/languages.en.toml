@@ -1,9 +1,8 @@
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "One Step Forward"
-
 [params]
+  languageCode = "en"
+  languageName = "English"
+  weight = 1
+  title = "One Step Forward"
   displayName = "EN"
   isoCode = "en"
   rtl = false
@@ -11,21 +10,21 @@ title = "One Step Forward"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "My corner of the internet. Dive in, explore, and share the joy."
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = '&copy; <a href="/">Abhinav.K</a> <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [author]
   name = "Abhinav.K"
-  image = "img/profile.png"
+  image = "img/profile.webp"
   bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
-  headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
+  headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
+  # headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
   links = [
     { github = "https://github.com/abhinav1107" },
-    { gitlab = "https://gitlab.com/abhinav1107" },
     { linkedin = "https://linkedin.com/in/abhinav1107" },
-    { medium = "https://medium.com/@abhinav1107" },
     { twitter = "https://twitter.com/abhinav1107" },
-    { instagram = "https://www.instagram.com/abhinav1107" },
-    { email = "mailto:abhinav@abhinav.ltd" }
+    { medium = "https://medium.com/@onestepforward" },
+    { email = "mailto:abhinav@abhinav.ltd" },
+    { rss = "https://abhinav.ltd/index.xml" }
   ]
 
 # [author]

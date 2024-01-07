@@ -1,8 +1,13 @@
 ---
 title: "Introduction"
 date: 2024-01-05T03:30:34+05:30
-description: "My Introduction for the world wide web"
+summary: "My Introduction for the world wide web"
 showRelatedContent: false
+showDate : false
+showDateUpdated : false
+showPagination : false
+showTableOfContents : false
+sharingLinks : false
 ---
 Hello there. 
 
@@ -59,4 +64,3 @@ I'm always looking for opportunities to combine my interests and capture beautif
 {{< youtube iGyZjOnhBCk >}}
 
 Get in touch with me anytime to offer feedback, ask questions, or just say hello 👋🏻.
-
