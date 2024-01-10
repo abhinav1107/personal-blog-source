@@ -18,8 +18,8 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "img/bg.jpg" # used as default for background images
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+# defaultBackgroundImage = "img/bg.jpg" # used as default for background images
+# defaultFeaturedImage = "img/bg.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,9 +36,12 @@ smartTOCHideUnfocusedChildren = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/rootbg.jpg" # used in: hero, and card
   showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
 
 [article]
   showDate = true
@@ -50,11 +53,11 @@ smartTOCHideUnfocusedChildren = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = false
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = false
+  showEdit = true
+  editURL = "https://github.com/abhinav1107/personal-blog-source/"
+  editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = false
   showPagination = true
@@ -64,23 +67,23 @@ smartTOCHideUnfocusedChildren = true
   showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = true
-  showAuthorsBadges = false
+  showAuthorsBadges = true
   showWordCount = true
   sharingLinks = ["linkedin", "twitter", "reddit", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+  showZenMode = true
   showComments = true # enables comment. comment configuration https://blowfish.page/docs/partials/#comments
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "hero" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = true
+  showCards = false
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
@@ -131,11 +134,11 @@ smartTOCHideUnfocusedChildren = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  identifier = "abhinavltd"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#FFDD00"
-  globalWidgetPosition = "Right"
+#  identifier = "abhinavltd"
+#  globalWidget = true
+#  globalWidgetMessage = ""
+#  globalWidgetColor = "#FFDD00"
+#  globalWidgetPosition = "Right"
 
 [verification]
   google = "EtybyQSi8CKQriB5wpG7PNiNjyDzmoV2qmsMeBUR70c"

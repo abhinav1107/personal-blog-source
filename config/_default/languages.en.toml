@@ -17,13 +17,15 @@ title = "One-Step Forward"
   name = "Abhinav.K"
   image = "img/profile.webp"
   bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
-  headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
+  # headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
+  headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
   links = [
-    { envelope = "mailto:abhinav@abhinav.ltd" },
+    { email = "mailto:abhinav@abhinav.ltd" },
     { github = "https://github.com/abhinav1107" },
     { linkedin = "https://linkedin.com/in/abhinav1107" },
     { twitter = "https://twitter.com/abhinav1107" },
-    { medium = "https://medium.com/@onestepforward" }
+    { medium = "https://medium.com/@onestepforward" },
+    { leetcode = "https://leetcode.com/abhinav1107/" }
   ]
 
 # [author]
