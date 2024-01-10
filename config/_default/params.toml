@@ -19,7 +19,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 
 # defaultBackgroundImage = "img/bg.jpg" # used as default for background images
-defaultFeaturedImage = "img/bg.jpg" # used as default for featured images in all articles
+# defaultFeaturedImage = "img/bg.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
