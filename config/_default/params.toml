@@ -142,3 +142,6 @@ smartTOCHideUnfocusedChildren = true
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[giscus]
+  enabled = true
