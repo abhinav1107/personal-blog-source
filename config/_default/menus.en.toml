@@ -173,6 +173,12 @@
   weight = 61
 
 [[main]]
+  identifier = "BuyMeaCoffee"
+  pre = "buymeacoffee"
+  url = "https://www.buymeacoffee.com/abhinavltd"
+  weight = 97
+
+[[main]]
   identifier = "GitHub"
   pre = "github"
   url = "https://github.com/abhinav1107/personal-blog-source"
