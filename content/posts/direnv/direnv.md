@@ -1,7 +1,6 @@
 ---
 title: "Direnv"
-featuredImg: "https://i.ibb.co/fqbKW5C/apprciate.jpg"
-description: Appreciation post for direnv
+summary: "Appreciation post for direnv"
 tags: ["direnv", "shell-hacks", "tips-and-tricks"]
 categories: ["productivity", "shell", "customisation"]
 date: 2024-01-04T09:24:53+05:30
@@ -32,4 +31,4 @@ $ cat k3d/dev/.envrc
 export KUBECONFIG="${HOME}/.config/k3d/kubeconfig-dev-cluster1.yaml"
 ```
 
-Util next time... Peace ✌🏻!
+Util next time... Peace :v:!

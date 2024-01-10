@@ -1,9 +1,9 @@
 ---
 title: "First Blog Post"
-slug: "introduction"
+slug: "hello"
 description: "My first of hopefully more than one blog posts"
 tags: ["introduction", "first-post", "hello"]
-date: 2024-01-04T01:15:53+05:30
+date: 2023-12-21T09:24:53+05:30
 showTableOfContents: false
 ---
 

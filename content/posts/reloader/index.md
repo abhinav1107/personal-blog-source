@@ -1,8 +1,8 @@
 ---
-title: "Restarting Pod on ConfigMap or Secret Updates"
+title: "Restarting Pods on ConfigMap or Secret Updates"
 slug: "reloader"
-description: "How to use reloader to restart a pod automatically when it's ConfigMap or Secret changes"
-date: 2024-01-04T03:24:53+05:30
+summary: "How to use reloader to restart a pod automatically when it's ConfigMap or Secret changes"
+date: 2023-12-23T17:51:07+05:30
 tags: ["kubernetes", "reloader", "devops"]
 ---
 In my current work setup, we have a lot of Kubernetes deployments. Most of them are Spring Boot applications, involving `application.properties` file. These properties files are loaded via ConfigMaps. Since the company is in early stages of application development, these config maps are changing frequently. Up until now, we have been performing manual rollout restart of deployments whose config has changed.
@@ -41,3 +41,5 @@ This worked out so well for us that we sent it to production within 2 days of te
 Well, How about that??
 
 Until next time!!
+
+{{< figure src="/images/sloth.jpg" title="Me relaxing after saving time from manual restarts" >}}
