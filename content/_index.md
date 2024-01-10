@@ -1,5 +1,5 @@
 ---
-title: "One Step Forward"
+title: "One-Step Forward"
 ---
 ### Favourite Quotes
 

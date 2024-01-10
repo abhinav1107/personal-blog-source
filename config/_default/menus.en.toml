@@ -183,3 +183,8 @@
   pre = "rss"
   url = "index.xml"
   weight = 100
+
+[[footer]]
+  name = "Privacy Policy"
+  pageRef = "ppolicy"
+  weight = 20
