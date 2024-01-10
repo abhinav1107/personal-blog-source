@@ -8,8 +8,8 @@ title = "One Step Forward"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.webp"
-  secondaryLogo = "img/logo-inverted.webp"
+  logo = "img/logo-white-transparent.webp"
+  secondaryLogo = "img/logo-black-transparent.webp"
   description = "Landing page and personal blog for Abhinav.K"
   copyright = '&copy; <a href="/">Abhinav.K</a> <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 

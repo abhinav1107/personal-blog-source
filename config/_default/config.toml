@@ -17,7 +17,6 @@ buildFuture = false
 
 googleAnalytics = "G-Y7B3JQHYJX"
 
-
 [imaging]
   anchor = 'Center'
 
@@ -64,3 +63,11 @@ googleAnalytics = "G-Y7B3JQHYJX"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+# enable disqus comment system
+# help links:
+#   blogfish part: https://blowfish.page/docs/partials/#comments
+#   hugo part: https://gohugo.io/content-management/comments/#add-disqus
+[services]
+  [services.disqus]
+    shortname = 'abhinav-ltd-blog'

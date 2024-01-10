@@ -88,7 +88,78 @@
   pageRef = "about"
   weight = 40
 
-#[[main]]
-#  name = "Newsletter"
-#  pageRef = "newsletter"
-#  weight = 50
+[[main]]
+  name = "Useful Links"
+  weight = 50
+
+[[main]]
+  name = "Hugo"
+  parent = "Useful Links"
+  pageRef = "https://gohugo.io/documentation/"
+  weight = 51
+
+[[main]]
+  name = "Blowfish"
+  parent = "Useful Links"
+  pageRef = "https://blowfish.page/"
+  weight = 52
+
+[[main]]
+  name = "FlowCV"
+  parent = "Useful Links"
+  pageRef = "https://flowcv.com/"
+  weight = 53
+
+[[main]]
+  name = "ImgBB"
+  parent = "Useful Links"
+  pageRef = "https://imgbb.com/"
+  weight = 54
+
+[[main]]
+  name = "Pixabay"
+  parent = "Useful Links"
+  pageRef = "https://pixabay.com/"
+  weight = 55
+
+[[main]]
+  name = "Unsplash"
+  parent = "Useful Links"
+  pageRef = "https://unsplash.com/"
+  weight = 56
+
+[[main]]
+  name = "iLoveIMG"
+  parent = "Useful Links"
+  pageRef = "https://www.iloveimg.com/"
+  weight = 57
+
+[[main]]
+  name = "Convertio"
+  parent = "Useful Links"
+  pageRef = "https://convertio.co/"
+  weight = 58
+
+[[main]]
+  name = "CloudConvert"
+  parent = "Useful Links"
+  pageRef = "https://cloudconvert.com/"
+  weight = 59
+
+[[main]]
+  name = "ssl-check"
+  parent = "Useful Links"
+  pageRef = "https://tools.keycdn.com/ssl"
+  weight = 59
+
+[[main]]
+  name = "favicon"
+  parent = "Useful Links"
+  pageRef = "https://favicon.io/"
+  weight = 60
+
+[[main]]
+  name = "logo"
+  parent = "Useful Links"
+  pageRef = "https://logo.com/"
+  weight = 61
