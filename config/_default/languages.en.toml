@@ -17,20 +17,13 @@ title = "One Step Forward"
   name = "Abhinav.K"
   image = "img/profile.webp"
   bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
-  headline = """{{< typeit tag=h3 breakLines=false loop=true speed=100 >}}
-“The more I learn, the more I realize how much I don't know.” - Albert Einstein
-“You will face many defeats in life, but never let yourself be defeated.” - Maya Angelou
-“After a while you learn to ignore the names people call you and just trust who you are.” – Shrek
-“If you get tired, learn to rest, not to quit” - Banksy
-“The only thing that overcomes hard luck is hard work.” - Harry Golden
-“It is possible to commit no mistakes and still lose. That is not a weakness. That is life.” - Star Trek
-{{< /typeit >}}"""
+  headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
   links = [
+    { envelope = "mailto:abhinav@abhinav.ltd" },
     { github = "https://github.com/abhinav1107" },
     { linkedin = "https://linkedin.com/in/abhinav1107" },
     { twitter = "https://twitter.com/abhinav1107" },
-    { medium = "https://medium.com/@onestepforward" },
-    { email = "mailto:abhinav@abhinav.ltd" }
+    { medium = "https://medium.com/@onestepforward" }
   ]
 
 # [author]
