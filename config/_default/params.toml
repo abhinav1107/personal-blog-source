@@ -132,7 +132,7 @@ smartTOCHideUnfocusedChildren = true
 
 [buymeacoffee]
   identifier = "abhinavltd"
-  globalWidget = true
+  globalWidget = false
   globalWidgetMessage = ""
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "Right"
