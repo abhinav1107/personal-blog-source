@@ -45,15 +45,15 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
-  showDateUpdated = true
-  showAuthor = true
-  showHero = true
+  showViews = false
+  showLikes = false
+  showDateUpdated = false
+  showAuthor = false
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/abhinav1107/personal-blog-source/"
@@ -121,13 +121,13 @@ smartTOCHideUnfocusedChildren = true
   # messagingSenderId = "XXXXXX"
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
-  apiKey = "AIzaSyBgdeftSIKfgwS8sc8INevwEi6f7ULdhq0"
-  authDomain = "blogq4gvlva.firebaseapp.com"
-  projectId = "blogq4gvlva"
-  storageBucket = "blogq4gvlva.appspot.com"
-  messagingSenderId = "1005687027444"
-  appId = "1:1005687027444:web:998a308e6c704f1a5c50a1"
-  measurementId = "G-NN9N32N06P"
+#  apiKey = "AIzaSyBgdeftSIKfgwS8sc8INevwEi6f7ULdhq0"
+#  authDomain = "blogq4gvlva.firebaseapp.com"
+#  projectId = "blogq4gvlva"
+#  storageBucket = "blogq4gvlva.appspot.com"
+#  messagingSenderId = "1005687027444"
+#  appId = "1:1005687027444:web:998a308e6c704f1a5c50a1"
+#  measurementId = "G-NN9N32N06P"
 
 [fathomAnalytics]
   # site = "ABC12345"
