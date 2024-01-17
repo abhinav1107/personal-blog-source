@@ -10,15 +10,14 @@ title = "One-Step Forward"
   dateFormat = "2 January 2006"
   logo = "img/logo-white-transparent.webp"
   secondaryLogo = "img/logo-black-transparent.webp"
-  description = "Landing page and personal blog for Abhinav.K"
+  description = "My Quest To Exist. With Help from GitHub & Cloudflare Pages"
   copyright = '&copy; 2023 - { year } <a href="/">Abhinav.K</a> <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [author]
   name = "Abhinav.K"
   image = "img/profile.webp"
   bio = "DevOps, Biker, Hiker, Photography Enthusiast & Sometimes Bathroom Singer"
-  # headline = "My Quest To Exist. With Help from Github & Cloudflare Pages"
-  headline = "“The more I learn, the more I realize how much I don't know.” - Albert Einstein"
+  headline = "My Quest To Exist. With Help from GitHub & Cloudflare Pages"
   links = [
     { email = "mailto:abhinav@abhinav.ltd" },
     { github = "https://github.com/abhinav1107" },

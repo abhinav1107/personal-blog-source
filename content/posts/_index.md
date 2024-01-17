@@ -12,6 +12,6 @@ showReadingTime : true
 showTableOfContents : true
 showTaxonomies : true 
 showWordCount : true
-showSummary : false
+showSummary : true
 sharingLinks : true
 ---

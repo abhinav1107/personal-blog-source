@@ -1,7 +1,7 @@
 ---
 title: "First Blog Post"
 slug: "hello"
-description: "My first of hopefully more than one blog posts"
+summary: "My first of hopefully more than one blog posts"
 tags: ["introduction", "first-post", "hello"]
 date: 2023-12-21T09:24:53+05:30
 showTableOfContents: false

@@ -18,8 +18,8 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "img/bg.jpg" # used as default for background images
-# defaultFeaturedImage = "img/bg.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/bg.jpg" # used as default for background images
+defaultFeaturedImage = "img/bg.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,7 +36,7 @@ smartTOCHideUnfocusedChildren = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/rootbg.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
@@ -45,20 +45,20 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
-  showDateUpdated = false
-  showAuthor = false
-  showHero = false
+  showViews = true
+  showLikes = true
+  showDateUpdated = true
+  showAuthor = true
+  showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = false
   showEdit = false
   # editURL = "https://github.com/abhinav1107/personal-blog-source/"
   editAppendPath = false
-  seriesOpened = false
+  seriesOpened = true
   showHeadingAnchors = false
   showPagination = true
   invertPagination = false
@@ -75,7 +75,7 @@ smartTOCHideUnfocusedChildren = true
 
 [list]
   showHero = true
-  heroStyle = "hero" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -83,11 +83,11 @@ smartTOCHideUnfocusedChildren = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
-  constrainItemsWidth = true
+  constrainItemsWidth = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
@@ -121,24 +121,24 @@ smartTOCHideUnfocusedChildren = true
   # messagingSenderId = "XXXXXX"
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
-#  apiKey = "AIzaSyBgdeftSIKfgwS8sc8INevwEi6f7ULdhq0"
-#  authDomain = "blogq4gvlva.firebaseapp.com"
-#  projectId = "blogq4gvlva"
-#  storageBucket = "blogq4gvlva.appspot.com"
-#  messagingSenderId = "1005687027444"
-#  appId = "1:1005687027444:web:998a308e6c704f1a5c50a1"
-#  measurementId = "G-NN9N32N06P"
+  apiKey = "AIzaSyBgdeftSIKfgwS8sc8INevwEi6f7ULdhq0"
+  authDomain = "blogq4gvlva.firebaseapp.com"
+  projectId = "blogq4gvlva"
+  storageBucket = "blogq4gvlva.appspot.com"
+  messagingSenderId = "1005687027444"
+  appId = "1:1005687027444:web:998a308e6c704f1a5c50a1"
+  measurementId = "G-NN9N32N06P"
 
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-#  identifier = "abhinavltd"
-#  globalWidget = true
-#  globalWidgetMessage = ""
-#  globalWidgetColor = "#FFDD00"
-#  globalWidgetPosition = "Right"
+  identifier = "abhinavltd"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   google = "EtybyQSi8CKQriB5wpG7PNiNjyDzmoV2qmsMeBUR70c"
