@@ -39,7 +39,7 @@ smartTOCHideUnfocusedChildren = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/rootbg.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 1
   showMoreLink = true
   showMoreLinkDest = "/posts"
 

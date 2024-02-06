@@ -1,7 +1,7 @@
 ---
 title: "One-Step Forward"
 ---
-### Favourite Quotes
+### [Favourite Quotes](/quotes)
 
 {{< typeit tag=h5 breakLines=false loop=true speed=75 >}}
 “The more I learn, the more I realize how much I don't know.” - Albert Einstein
