@@ -1,4 +1,9 @@
-# Favourite Quotes
+---
+title: "Favourite Quotes"
+slug: quotes
+summary: "My Favourite Quotes. Collected from here and there."
+date: 2024-02-06T09:24:53+05:30
+---
 
 > ❝The more I learn, the more I realize how much I don't know.❞<br>
 > <cite>-- Albert Einstein</cite>
